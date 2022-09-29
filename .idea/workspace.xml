@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72e75840-ff75-4ce9-9f3b-1fb7e910b471" name="Changes" comment="">
+    <list default="true" id="72e75840-ff75-4ce9-9f3b-1fb7e910b471" name="Changes" comment="chore: add images">
+      <change afterPath="$PROJECT_DIR$/index-es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_09_2022_12_05_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_09_2022_12_05__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +15,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/feat/plans" />
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -54,7 +60,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,7 +96,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e398c1c-8394-4c06-9436-bff1ecc8e878" name="Changes" comment="" />
+      <changelist id="72e75840-ff75-4ce9-9f3b-1fb7e910b471" name="Changes" comment="chore: add images" />
       <created>1663358280093</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -101,6 +107,8 @@
       <workItem from="1663427235515" duration="1398000" />
       <workItem from="1663430092600" duration="877000" />
       <workItem from="1663431741049" duration="728000" />
+      <workItem from="1664413594172" duration="40000" />
+      <workItem from="1664417798083" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1663428151681</created>
