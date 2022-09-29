@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72e75840-ff75-4ce9-9f3b-1fb7e910b471" name="Changes" comment="chore: add images">
-      <change afterPath="$PROJECT_DIR$/index-es.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_09_2022_12_05_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_09_2022_12_05__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72e75840-ff75-4ce9-9f3b-1fb7e910b471" name="Changes" comment="feat: add index spanish" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +103,7 @@
       <workItem from="1663430092600" duration="877000" />
       <workItem from="1663431741049" duration="728000" />
       <workItem from="1664413594172" duration="40000" />
-      <workItem from="1664417798083" duration="299000" />
+      <workItem from="1664417798083" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1663428151681</created>
@@ -166,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663432311065</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: add index spanish">
+      <created>1664418345261</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664418345261</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +194,7 @@
     <MESSAGE value="feat: add images" />
     <MESSAGE value="chore: add structure" />
     <MESSAGE value="chore: add images" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: add images" />
+    <MESSAGE value="feat: add index spanish" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add index spanish" />
   </component>
 </project>
